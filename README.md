@@ -6,7 +6,7 @@ Android App using The Movie DB API
 
 ## Description
 
-a simple app that contains some basic functionality. It connects to the Movies DB API and fetch current popular TV shows on TMDb.
+a simple app that contain some basic functionality. It connects to the Movies DB API and fetch current popular TV shows on TMDb.
 
 
 ## Tech Stack
